@@ -1,5 +1,5 @@
 ### Hi there 👋
-Front-end web developer with 3 years of experience in developing responsive web applications, I’m proficient in HTML, CSS, and JavaScript, and have experience working with the Vue.js framework.
+I'm a Front-End web developer with 3 years of experience in developing responsive web applications, proficient in HTML, CSS, and JavaScript, and have experience working with the Vue.js framework.
 
 Making CSS drawings and sharing them on my [CodePen account](https://codepen.io/armanb) is a great pleasure for me. Recently I have created a project called [Single DIV](https://github.com/arman-borkhani/single-div) and I am trying to make CSS drawings with just a single div element
 
