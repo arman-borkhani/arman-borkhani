@@ -1,6 +1,3 @@
-### Hi there 👋
-Experienced Frontend Developer with 3 years of expertise in developing user-friendly, adaptive, and responsive websites. proficient in HTML, CSS, JavaScript, Vue.js, and WordPress theme development.
+# Hi there, I'm Arman Borkhani 👋
 
-Making CSS drawings and sharing them on my [CodePen account](https://codepen.io/armanb) is a great pleasure for me. Recently I have created a project called [Single DIV](https://github.com/arman-borkhani/single-div) and I am trying to make CSS drawings with just a single div element
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+Highly skilled Front-End Developer with over 3 years of experience in HTML, CSS, and JavaScript. Proficient in React.js and Next.js, with a focus on building dynamic and responsive user interfaces. Strong understanding of modern web development practices and a passion for creating engaging user experiences.
